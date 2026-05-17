@@ -1,0 +1,9 @@
+Create a modern, fully responsive Single Page website for a premium professional agency using Tailwind CSS. 
+
+The application must include:
+1. Navigation Bar: Sticky header with a clean logo placeholder, smooth scroll navigation links (Home, Services, Work, Contact), and a high-contrast 'Get Started' action button.
+2. Hero Section: A bold typography layout, an engaging sub-headline, and an interactive grid background effect with dual call-to-action buttons.
+3. Services Grid: A responsive 3-column layout showcasing company core offerings using glassmorphism styling, clean modern card structures, and subtle hover animations.
+4. Dynamic Footer: Complete with secondary navigation, dynamic current year tracking via Vanilla JS, social media icon anchors, and an integrated, beautifully styled newsletter signup input field.
+
+Deliver entirely clean, semantic HTML5 markup with Tailwind classes fully implemented via CDN. Ensure excellent whitespace hierarchy and mobile navigation toggling using inline JavaScript.

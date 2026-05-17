@@ -1,0 +1,9 @@
+Build a highly optimized SaaS application landing page using semantic HTML5 and utility-first Tailwind CSS classes.
+
+Key Architecture Requirements:
+1. Top Notice Bar: A sleek, dismissible promo announcement banner at the absolute top of the page.
+2. Hero Section: Focused on product conversion, featuring a split-screen desktop layout (left: punchy product value proposition and clear email signup CTA; right: a clean mock dashboard visualization UI component).
+3. Pricing Architecture: A responsive 3-tier pricing matrix grid (Free, Pro, Enterprise) displaying clear badge highlighting for the 'Most Popular' choice, dynamic lists of features, and vibrant checkout buttons.
+4. Contact/Support Area: A modern centered layout featuring full-width input fields and a secure submission aesthetic.
+
+Ensure all interactive states (hover transitions, active clicks) are smoothly animated. Package everything into a single file with lightweight Vanilla JS script tags to handle any client-side layout adjustments.
